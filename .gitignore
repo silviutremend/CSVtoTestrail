@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+>>>>>>> First Commit
 # Compiled class file
 *.class
 
@@ -20,3 +25,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
+=======
+
+>>>>>>> First Commit
